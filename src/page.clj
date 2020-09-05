@@ -7,7 +7,7 @@
   {:posts
    [{:title "Test post"
      :date (LocalDate/now)
-     :content "This is a test post"}]})
+     :content "This is a test post."}]})
 
 ;; Render
 
