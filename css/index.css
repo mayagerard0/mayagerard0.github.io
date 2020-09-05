@@ -1,0 +1,14 @@
+
+body {
+    max-width: 800px;
+    margin: auto;
+    margin-top: 50px;
+    font-family: Helvetica;
+    color: white;
+    background-color: grey;
+    padding: 0 10px 0 10px;
+}
+
+.date-span {
+    color: rgb(200, 200, 200);
+}
